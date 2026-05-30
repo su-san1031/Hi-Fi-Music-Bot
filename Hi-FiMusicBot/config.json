@@ -1,8 +1,0 @@
-{
-  "discord_token": "",
-  "spotify_client_id": "",
-  "spotify_client_secret": "",
-  "discord_audio_bitrate": 192,
-  "stream_url_ttl_seconds": 1200,
-  "ffmpeg_executable": ""
-}
