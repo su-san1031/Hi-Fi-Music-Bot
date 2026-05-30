@@ -1,19 +1,26 @@
 # Hi-FiMusicBot
 
 YouTubeとSpotifyに対応したDiscord音楽Botです。
+Windows11/Linuxで動作確認済みです
+※Windowsの仕様上動作が安定しない事があります
 
-Windowsなら `run_bot.bat` をダブルクリックするだけで起動できます。
-
-## できること
+## 機能
 
 - YouTube動画の再生
-- YouTubeプレイリストの追加
+- YouTubeプレイリスト/ミックスリストの再生
 - Spotify楽曲の検索と再生
 - キュー管理
 - ループ再生
 - 自動ボイスチャンネル参加
-- 曲ごとの音量ならし
+- 動画ごとの音量差を一定にできる
+- 高レスポンス/高音質再生
 
+## 開発環境
+
+- Windows11
+- Ubuntu Server 26.04 LTS
+- Python 3.13
+  
 ## 必要なもの
 
 - Python 3.10以上
