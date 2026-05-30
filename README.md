@@ -1,8 +1,8 @@
 # Hi-FiMusicBot
 
--YouTubeとSpotifyに対応したDiscord音楽Botです。
--Windows11/Linuxで動作確認済みです
--※Windowsの仕様上動作が安定しない事があります
+- YouTubeとSpotifyに対応したDiscord音楽Botです。
+- Windows11/Linuxで動作確認済みです
+※Windowsの仕様上動作が安定しない事があります
 
 ## 機能
 
