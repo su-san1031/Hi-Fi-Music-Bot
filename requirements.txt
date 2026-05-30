@@ -1,6 +1,0 @@
-discord.py[voice]>=2.3.0
-yt-dlp>=2023.7.6
-spotipy>=2.22.1
-psutil>=5.9.0
-static-ffmpeg>=3.0
-imageio-ffmpeg>=0.5.1
